@@ -1,0 +1,29 @@
+_repo: The-Mapleson-Memoirs-1848-1888-vol-II_36144
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36144-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mapleson, James Henry
+    alias: Mapleson, J. H. (James Henry)
+    birthdate: 1830
+    deathdate: 1901
+    gutenberg_agent_id: '38102'
+    url: http://www.gutenberg.org/2009/agents/38102
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Mapleson
+description: ''
+gutenberg_issued: '2011-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opera -- United States'
+- !lcsh 'Opera -- England -- London'
+- !lcc 'ML'
+title: The Mapleson Memoirs, 1848-1888, vol II
+url: http://www.gutenberg.org/ebooks/36144
